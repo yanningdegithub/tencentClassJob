@@ -1,0 +1,2 @@
+D:\ue4Project\tencentClassProject\tencentClassJob\Intermediate\Build\Win64\UE4Editor\Development\tencentClassJob\Definitions.tencentClassJob.h
+D:\ue4Project\tencentClassProject\tencentClassJob\Source\tencentClassJob\tencentClassJob.h

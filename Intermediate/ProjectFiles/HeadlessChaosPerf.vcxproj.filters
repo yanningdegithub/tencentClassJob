@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\HeadlessChaosPerf\HeadlessChaosPerf.Target.cs" />
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\HeadlessChaosPerf\HeadlessChaosPerf.Build.cs" />
+    <Filter Include="Private">
+      <UniqueIdentifier>{06D343BE-1825-4EC3-8463-E1AF541013D5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\HeadlessChaosPerf\Private\HeadlessChaosPerfApp.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <Filter Include="Private\ChaosPerf">
+      <UniqueIdentifier>{4375FF2F-60AD-4990-B74D-BEC82DD2BB1B}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\HeadlessChaosPerf\Private\ChaosPerf\ChaosPerf.h">
+      <Filter>Private\ChaosPerf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\HeadlessChaosPerf\Private\ChaosPerf\ChaosPerfLog.h">
+      <Filter>Private\ChaosPerf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\HeadlessChaosPerf\Private\ChaosPerf\ChaosPerfProfiling.h">
+      <Filter>Private\ChaosPerf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\HeadlessChaosPerf\Private\ChaosPerf\ChaosPerfTest.h">
+      <Filter>Private\ChaosPerf</Filter>
+    </ClInclude>
+    <Filter Include="Private\ChaosPerf\PerfTests">
+      <UniqueIdentifier>{E6A4E64E-13B0-4338-BBF8-241417FAF132}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\HeadlessChaosPerf\Private\ChaosPerf\PerfTests\ChaosPerfProfilerTests.cpp">
+      <Filter>Private\ChaosPerf\PerfTests</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

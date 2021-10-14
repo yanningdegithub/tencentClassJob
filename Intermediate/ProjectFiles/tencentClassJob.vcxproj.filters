@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\tencentClassJob.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{CF34B0B1-44BD-4A36-80CB-A046C1911457}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\tencentClassJob.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\tencentClassJobEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{0A8EC5D6-1BEE-42C7-B5A9-2C0046CB28EF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\tencentClassJob">
+      <UniqueIdentifier>{060EA1F8-7944-424A-B88E-D710126D51B0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\tencentClassJob\tencentClassJob.Build.cs">
+      <Filter>Source\tencentClassJob</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\tencentClassJob\tencentClassJob.cpp">
+      <Filter>Source\tencentClassJob</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\tencentClassJob\tencentClassJob.h">
+      <Filter>Source\tencentClassJob</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\tencentClassJob\tencentClassJobCharacter.cpp">
+      <Filter>Source\tencentClassJob</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\tencentClassJob\tencentClassJobCharacter.h">
+      <Filter>Source\tencentClassJob</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\tencentClassJob\tencentClassJobGameMode.cpp">
+      <Filter>Source\tencentClassJob</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\tencentClassJob\tencentClassJobGameMode.h">
+      <Filter>Source\tencentClassJob</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

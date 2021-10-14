@@ -1,0 +1,3 @@
+D:\ue4Project\tencentClassProject\tencentClassJob\Intermediate\Build\Win64\UE4Editor\Development\tencentClassJob\Definitions.tencentClassJob.h
+D:\ue4code\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\ue4code\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

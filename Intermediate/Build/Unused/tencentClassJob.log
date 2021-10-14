@@ -1,0 +1,24 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\ue4code\UnrealEngine).
+  Creating makefile for tencentClassJobEditor (no existing makefile)
+  Creating makefile for UnrealHeaderTool (no existing makefile)
+  Parsing headers for tencentClassJobEditor
+    Running UnrealHeaderTool "D:\ue4Project\tencentClassProject\tencentClassJob\tencentClassJob.uproject" "D:\ue4Project\tencentClassProject\tencentClassJob\Intermediate\Build\Win64\tencentClassJobEditor\Development\tencentClassJobEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="D:\ue4code\UnrealEngine\Engine\Programs\UnrealBuildTool\Log_UHT.txt"
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for tencentClassJobEditor in 64.8862877 seconds
+  Creating makefile for ShaderCompileWorker (no existing makefile)
+  Building tencentClassJobEditor and ShaderCompileWorker...
+  Using Visual Studio 2019 14.29.30136 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 9 actions with 6 processes...
+    [1/9] tencentClassJob.init.gen.cpp
+    [2/9] tencentClassJob.cpp
+    [3/9] tencentClassJobGameMode.gen.cpp
+    [4/9] tencentClassJobCharacter.gen.cpp
+    [5/9] tencentClassJobGameMode.cpp
+    [6/9] tencentClassJobCharacter.cpp
+    [7/9] UE4Editor-tencentClassJob-0001.lib
+      正在创建库 D:\ue4Project\tencentClassProject\tencentClassJob\Intermediate\Build\Win64\UE4Editor\Development\tencentClassJob\UE4Editor-tencentClassJob-0001.lib 和对象 D:\ue4Project\tencentClassProject\tencentClassJob\Intermediate\Build\Win64\UE4Editor\Development\tencentClassJob\UE4Editor-tencentClassJob-0001.exp
+    [8/9] UE4Editor-tencentClassJob-0001.dll
+      正在创建库 D:\ue4Project\tencentClassProject\tencentClassJob\Intermediate\Build\Win64\UE4Editor\Development\tencentClassJob\UE4Editor-tencentClassJob-0001.suppressed.lib 和对象 D:\ue4Project\tencentClassProject\tencentClassJob\Intermediate\Build\Win64\UE4Editor\Development\tencentClassJob\UE4Editor-tencentClassJob-0001.suppressed.exp
+    [9/9] tencentClassJobEditor.target
+  Total time in Parallel executor: 197.76 seconds
+  Total execution time: 302.39 seconds

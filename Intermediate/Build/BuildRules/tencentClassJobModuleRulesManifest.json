@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\ue4Project\\tencentClassProject\\tencentClassJob\\Source\\tencentClassJob\\tencentClassJob.Build.cs",
+		"D:\\ue4Project\\tencentClassProject\\tencentClassJob\\Source\\tencentClassJob.Target.cs",
+		"D:\\ue4Project\\tencentClassProject\\tencentClassJob\\Source\\tencentClassJobEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.0"
+}

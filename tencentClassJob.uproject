@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{C9533A4C-4388-7962-2DEB-55B256A1A069}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "tencentClassJob",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

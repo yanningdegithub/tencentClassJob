@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "tencentClassJob",
+			"Path": "D:\\ue4Project\\tencentClassProject\\tencentClassJob\\Source\\tencentClassJob.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "tencentClassJobEditor",
+			"Path": "D:\\ue4Project\\tencentClassProject\\tencentClassJob\\Source\\tencentClassJobEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
